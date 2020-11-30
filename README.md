@@ -1,3 +1,19 @@
+#This Project uses:
+
+useGroupBy to enable header groups
+useFilters for per-column filters. Note that filters are displayed in a separate filter dropdown rather than being embedded in each column header.
+useSortBy for column sorting
+usePagination for pagination
+useRowSelect for row selection
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
