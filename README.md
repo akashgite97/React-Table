@@ -1,10 +1,10 @@
-#This Project uses:
+# This Project uses
 
-useGroupBy to enable header groups
-useFilters for per-column filters. Note that filters are displayed in a separate filter dropdown rather than being embedded in each column header.
-useSortBy for column sorting
-usePagination for pagination
-useRowSelect for row selection
+- useGroupBy to enable header groups
+- useFilters for per-column filters. Note that filters are displayed in a separate filter dropdown rather than being embedded in each column header.
+- useSortBy for column sorting
+- usePagination for pagination
+- useRowSelect for row selection
 
 
 
